@@ -164,3 +164,15 @@ Default credentials (configurable via env vars):
 ## License
 
 Private/internal project.
+
+## Screenshots
+
+### Admin Panel
+![Admin Panel](docs/screenshots/admin.png)
+
+### Take a Quiz
+![Take a Quiz](docs/screenshots/take-quiz.png)
+
+### My Performance
+![My Performance](docs/screenshots/performance.png)
+
