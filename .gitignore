@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tests / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+logs/
+.tmp/
+tmp/
+*.tmp
+*.bak
+*.cache
+
+# Env
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Docker
+postgres_data/
+docker-compose.override.yml
+
+# Local DBs
+*.db
+*.sqlite
+*.sqlite3

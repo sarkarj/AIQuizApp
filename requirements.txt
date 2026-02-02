@@ -1,0 +1,30 @@
+# AI Quiz Platform - Python Dependencies
+# Version: 1.2.0
+# Changelog: Added streamlit-js-eval for localStorage browser persistence
+
+# Core Framework
+streamlit>=1.28.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.23
+
+# AWS Bedrock
+boto3>=1.34.0
+botocore>=1.34.0
+
+# Data Processing
+pandas>=2.1.3
+numpy>=1.26.2
+
+# Visualization
+plotly>=5.18.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Browser Storage (NEW - v1.2.0)
+streamlit-js-eval>=0.1.7
